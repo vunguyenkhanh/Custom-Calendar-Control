@@ -49,70 +49,18 @@
                         closeSidebarText: "Close sidebar",
                         closeEventListText: "Close event list"
                     },
-                    es: {
-                        days: ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"],
-                        daysShort: ["Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"],
-                        daysMin: ["Do", "Lu", "Ma", "Mi", "Ju", "Vi", "Sa"],
-                        months: ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
-                        monthsShort: ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
-                        noEventForToday: "No hay evento para hoy.. ¡así que descanse! :)",
-                        noEventForThisDay: "Ningún evento para este día.. ¡así que descanse! :)",
-                        previousYearText: "Año anterior",
-                        nextYearText: "El próximo año",
-                        closeSidebarText: "Cerrar la barra lateral",
-                        closeEventListText: "Cerrar la lista de eventos"
-                    },
-                    de: {
-                        days: ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
-                        daysShort: ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
-                        daysMin: ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
-                        months: ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
-                        monthsShort: ["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"],
-                        noEventForToday: "Keine Veranstaltung für heute.. also ruhen Sie sich aus! :)",
-                        noEventForThisDay: "Keine Veranstaltung für diesen Tag.. also ruhen Sie sich aus! :)",
-                        previousYearText: "Vorheriges Jahr",
-                        nextYearText: "Nächstes Jahr",
-                        closeSidebarText: "Schließen Sie die Seitenleiste",
-                        closeEventListText: "Schließen Sie die Ereignisliste"
-                    },
-                    pt: {
-                        days: ["Domingo", "Segunda-Feira", "Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira", "Sábado"],
-                        daysShort: ["Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb"],
-                        daysMin: ["Do", "2a", "3a", "4a", "5a", "6a", "Sa"],
-                        months: ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
-                        monthsShort: ["Jan", "Feb", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
-                        noEventForToday: "Nenhum evento para hoje.. então descanse! :)",
-                        noEventForThisDay: "Nenhum evento para este dia.. então descanse! :)",
-                        previousYearText: "Ano anterior",
-                        nextYearText: "Próximo ano",
-                        closeSidebarText: "Feche a barra lateral",
-                        closeEventListText: "Feche a lista de eventos"
-                    },
-                    fr: {
-                        days: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
-                        daysShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
-                        daysMin: ["Di", "Lu", "Ma", "Me", "Je", "Ve", "Sa"],
-                        months: ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
-                        monthsShort: ["Jan", "Fév", "Mar", "Avr", "Mai", "Juin", "Juil", "Août", "Sept", "Oct", "Nov", "Déc"],
-                        noEventForToday: "Rien pour aujourd'hui... Belle journée :)",
-                        noEventForThisDay: "Rien pour ce jour-ci... Profite de te réposer :)",
-                        previousYearText: "Année précédente",
-                        nextYearText: "L'année prochaine",
-                        closeSidebarText: "Fermez la barre latérale",
-                        closeEventListText: "Fermer la liste des événements"
-                    },
-                    nl: {
-                        days: ["Zondag", "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag"],
-                        daysShort: ["Zon", "Maan", "Din", "Woe", "Don", "Vrij", "Zat"],
-                        daysMin: ["Zo", "Ma", "Di", "Wo", "Do", "Vr", "Za"],
-                        months: ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli", "Augustus", "September", "Oktober", "November", "December"],
-                        monthsShort: ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dec"],
-                        noEventForToday: "Geen event voor vandaag.. dus rust even uit! :)",
-                        noEventForThisDay: "Geen event voor deze dag.. dus rust even uit! :)",
-                        previousYearText: "Vorig jaar",
-                        nextYearText: "Volgend jaar",
-                        closeSidebarText: "Sluit de zijbalk",
-                        closeEventListText: "Sluit de event lijst"
+                    vi: {
+                        days: ["Chủ Nhật", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy"],
+                        daysShort: ["Chủ Nhật", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy"],
+                        daysMin: ["Chủ Nhật", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy"],
+                        months: ["Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6", "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"],
+                        monthsShort: ["Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6", "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"],
+                        noEventForToday: "Không có sự kiện nào cho hôm nay :)",
+                        noEventForThisDay: "Không có sự kiện nào cho ngày này :)",
+                        previousYearText: "Năm ngoái",
+                        nextYearText: "Năm tới",
+                        closeSidebarText: "Đóng",
+                        closeEventListText: "Đóng danh sách sự kiện"
                     }
                 }
             }
