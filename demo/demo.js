@@ -15,6 +15,12 @@ var events = [ {
     date: today.getMonth() + 1 + "/12/" + today.getFullYear(),
     type: "event"
 }, {
+  id: "0g5G6ja",
+  name: "Thi Bảo Mật Mạng Máy Tính",
+  description: "Good Luck !",
+  date: today.getMonth() + 1 + "/12/" + today.getFullYear(),
+  type: "event"
+}, {
   id: "dsu7HUc",
   name: "Vũ Nguyễn Khánh's Birthday",
   description: "Happy Birthday ! :)",
